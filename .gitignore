@@ -1,0 +1,6 @@
+WORKSPACE/
+venv/
+*.xml
+.env
+.idea/
+_pycache_
